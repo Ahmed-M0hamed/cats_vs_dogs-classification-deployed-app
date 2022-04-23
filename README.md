@@ -29,7 +29,7 @@ or you will find tflite model virsion to use the app without train the model
 to use the app you could use chrome web server to run the app in local host 
 
 -------------------------
-
+the app is a little bit underfitting because our resourses is not really good so I can not train for high accuracy so
 we used small dataset and lite model so the accuracy is not this great but we 
 foucused to run the app 
 
